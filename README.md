@@ -1,5 +1,5 @@
 # Flight-Management
-A basic version of a flight resource management application with Java.
+A basic version of a flight resource management application with Java and MySQL.
 
 
 ![0](https://user-images.githubusercontent.com/29449456/46112465-b8995580-c1b8-11e8-8b5f-6a228c89aa40.png)
