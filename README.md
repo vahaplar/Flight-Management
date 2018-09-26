@@ -1,8 +1,9 @@
 # Flight-Management
 A basic version of a flight resource management application with Java and MySQL.
 
+Login Screen
 ![0](https://user-images.githubusercontent.com/29449456/46112465-b8995580-c1b8-11e8-8b5f-6a228c89aa40.png)
-<center>Login Screen</center>
+
 ![1](https://user-images.githubusercontent.com/29449456/46112466-b8995580-c1b8-11e8-9d19-2b0c21222cc7.png)
 ![2](https://user-images.githubusercontent.com/29449456/46112467-b931ec00-c1b8-11e8-80c8-f5e698fd77cf.png)
 ![3](https://user-images.githubusercontent.com/29449456/46112468-b931ec00-c1b8-11e8-8eef-224397a5c472.png)
